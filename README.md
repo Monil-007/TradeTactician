@@ -1,1 +1,1 @@
-# MG-Stockesy
+TradeTactician
