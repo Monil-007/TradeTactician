@@ -1,9 +1,9 @@
 <br>
 <h1><strong>WELCOME TO TradeTactician</strong></h1>
  <br>
- Are you eager to do trading but not confident enough to risk your real money??<br> 
- Have you ever felt lack of accurate sentimentals,company's specifc news??<br>
- Dont worry, this project is a one stop solution to all these problems!!!<br>
+ - Are you eager to do trading but not confident enough to risk your real money??<br> 
+ - Have you ever felt lack of accurate sentimentals,company's specifc news??<br>
+   Dont worry, this project is a one stop solution to all these problems!!!<br>
 
 <h3><bold>ABOUT THE PROJECT</bold></h3>
 <hr></hr>
@@ -44,6 +44,5 @@
 -> Run it and dashboard of top 10 stocks will be listed in a table.<br>
 -> From the sidebar section, can navigate to various sections like sentimentals,stock news feed,dummytrading, portfolio tracking etc.<br><br>
 
-
-
+<h3> -Project made by Gandhi Monil</h3>
 
