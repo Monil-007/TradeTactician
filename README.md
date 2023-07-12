@@ -1,13 +1,13 @@
 <br>
 <h1><bold>WELCOME TO TradeTactician</bold></h1>
- <br></br>
+ <br>
  Are you eager to do trading but not confident enough to risk your real money??<br> 
  Have you ever felt lack of accurate sentimentals,company's specifc news??<br>
  Dont worry, this project is a one stop solution to all these problems!!!<br>
 
 <h3><bold>ABOUT THE PROJECT</bold></h3>
 <hr></hr>
--> This is a Virtual Trading Simulator, a powerful, useful and user-friendly web application that offers a realistic virtual trading experienc with real-time data  for newbiew beginners in the complex world of Stock Market. <br>
+-> This is a Virtual Trading Simulator, a powerful, useful and user-friendly web application that offers a realistic virtual trading experience with real-time data  for newbiew beginners in the complex world of Stock Market. <br>
 -> This web application provides user-input stock real time sentimentals i.e. company's market capitilization,company's assets, liabilities, revenue etc details all this with high accuracy so that a trader can make strategy whether to invest in the particular stock or not, based on this sentimentals.<br>
 -> This web application also provides exlcusive user input stock specific news feed which covers detailed  latest news about the company which can effect price of stock currently with photographs and organized grids.<br>
 -> It also comprises of graph indicators for stocks for helping traders to design trading strategy based on the current graph of the stock.<br>
@@ -34,7 +34,6 @@
 -> Tailwind<br>
 -> Ajax<br>
 -> Postman<br><br>
-
 
 <h3><bold> HOW TO USE THIS PORTAL</bold></h3>
 <hr></hr>
