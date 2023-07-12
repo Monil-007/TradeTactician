@@ -1,5 +1,5 @@
 <br>
-<h1><bold>WELCOME TO TradeTactician</bold></h1>
+<h1><strong>WELCOME TO TradeTactician</strong></h1>
  <br>
  Are you eager to do trading but not confident enough to risk your real money??<br> 
  Have you ever felt lack of accurate sentimentals,company's specifc news??<br>
@@ -17,12 +17,13 @@
 <h3><bold>KEY FEATURES</bold></h3>
 <hr></hr>
 1. <strong>Dashboard of top 10 stocks: </strong> Get a top 10 US stocks with proper info of % change, up/down ,gained/lost in a tabulated form<br>
-2. <bold>Stock Sentimentals: </bold>A section providing user input stock's sentimentals like capitilization,revenue,assets,liabilites etc with high accuracy<br>
-3. <bold>Dynamic Stock news feed: </bold> user input stock news feed where user gets all news related to a stock query which he/she has given as input.<br>
-4. <bold>Graph Indicators: </bold>A section which provides graph indicator tool based on current user-input stock's graph<br>
-5. <bold>Portfolio Tracker: </bold> A section to help track purchased or currently holded stocks with its current gain/loss status.<br>
-6. <bold>Responsiveness: </bold> Completely responsive with an aim to make it user friendly for mobile and tablet traders as well. <br>
-7. <bold>Friendly User Interface: </bold> A engaging and easy UI for traders so as to focus more on trading rather than on other things.<br><br>
+2. <strong>Stock Sentimentals:</strong> A section providing user input stock's sentimentals like capitilization,revenue,assets,liabilites etc with high accuracy<br>
+3. <strong>Dynamic Stock news feed: </strong>  user input stock news feed where user gets all news related to a stock query which he/she has given as input.<br>
+4. <strong>Graph Indicators:</strong> A section which provides graph indicator tool based on current user-input stock's graph<br>
+5. <strong>Portfolio Tracker: </strong>  A section to help track purchased or currently holded stocks with its current gain/loss status.<br>
+6. <strong>Responsiveness:</strong> Completely responsive with an aim to make it user friendly for mobile and tablet traders as well. <br>
+7. <strong>Friendly User Interface:</strong>  A engaging and easy UI for traders so as to focus more on trading rather than on other things.<br><br>
+
 <h3><bold>TECHNOLOGIES USED</bold></h3>
 <hr></hr>
 -> Node.JS<br>
