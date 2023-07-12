@@ -1,15 +1,13 @@
 <h1><bold>WELCOME TO TradeTactician</bold></h1>
  <br></br>
 
--> Welcome to my MERN Stack Web Portal Project!! Have you ever felt frustrated when your order falls short of the minimum purchase value for free delivery?? <br>
--> Dont worry,This project is a one stop solution to it!<br>
--> This project is aimed at getting rid off the high delivery charges of e-commerce giants nowadays (for ex. that barrier of Rs.500) by providing a platform on which user can connect with other peeps who are ordering from the e-commerce platform. <br><br>
-
 <h3><bold>ABOUT THE PROJECT</bold></h3>
--> The ShipSaver18 Portal is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform connects like-minded shoppers who are looking to maximize their savings by finding others ordering from different ecommerce websites.
--> By joining forces, users collectively surpass the minimum order value of 500Rs and other minimum purchase value barriers and unlock the benefits of free delivery without actually spending money on that high priced subscription of e-commerce giants.<br>
--> This ShipSaver18 portal is really a huge Money-saver application wfor those who need to order very frequently and that too small small daily life usage things from e-commerce platforms.<br>
--> This is a boon for hostellers as well as they know almost everyone in hostel and hence can order together to get rid off high delivery fees by using this platform which provides them a list of all active nearby users.<br><br>
+-> This is a Virtual Trading Simulator, a powerful, useful and user-friendly web application that offers a realistic virtual trading experience for newbiew beginners in the complex world of Stock Market. <br>
+-> Not only just that, but this project also provides exlcusive user input stock specific news fees.<br>
+-> It provides stock sentimentals i.e. company's market capitilization, its assets, liabilities, revenue etc details all this with high accuracy so that a trader can make strategy whether to invest in the particular stock or not based on this sentimentals.<br>
+-> It also comprises of graph indicators for stocks for helping traders to design trading strategy based on the current graph of the stock.<br>
+-> Its heart is its dummy trading section where newbiew traders can trade based on the above made strategies without risking real money but still will get a feel of proper trading with exclusive virtual trading experience in this section.<br>
+-> At last, traders will also get a functionality of portfolio for tracking stocks they have purchased in dummy trading section with current profit/loss status. <br>
 
 <h3><bold> HOW TO USE THIS PORTAL</bold></h3>
 -> Signup/Login manually or directly by using Google account, github account
