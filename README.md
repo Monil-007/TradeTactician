@@ -1,6 +1,9 @@
 <br>
 <h1><bold>WELCOME TO TradeTactician</bold></h1>
  <br></br>
+ Are you eager to do trading but not confident enough to risk your real money??<br> 
+ Have you ever felt lack of accurate sentimentals,company's specifc news??<br>
+ Dont worry, this project is a one stop solution to all these problems!!!<br>
 
 <h3><bold>ABOUT THE PROJECT</bold></h3>
 <hr></hr>
