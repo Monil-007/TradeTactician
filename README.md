@@ -16,13 +16,13 @@
 
 <h3><bold>KEY FEATURES</bold></h3>
 <hr></hr>
-1. <strong>Dashboard of top 10 stocks: </strong> Get a top 10 US stocks with proper info of % change, up/down ,gained/lost in a tabulated form<br>
-2. <strong>Stock Sentimentals:</strong> A section providing user input stock's sentimentals like capitilization,revenue,assets,liabilites etc with high accuracy<br>
-3. <strong>Dynamic Stock news feed: </strong>  user input stock news feed where user gets all news related to a stock query which he/she has given as input.<br>
-4. <strong>Graph Indicators:</strong> A section which provides graph indicator tool based on current user-input stock's graph<br>
-5. <strong>Portfolio Tracker: </strong>  A section to help track purchased or currently holded stocks with its current gain/loss status.<br>
-6. <strong>Responsiveness:</strong> Completely responsive with an aim to make it user friendly for mobile and tablet traders as well. <br>
-7. <strong>Friendly User Interface:</strong>  A engaging and easy UI for traders so as to focus more on trading rather than on other things.<br><br>
+1. <strong><ul>Dashboard of top 10 stocks: </ul></strong> Get a top 10 US stocks with proper info of % change, up/down ,gained/lost in a tabulated form<br>
+2. <strong><ul>Stock Sentimentals:</ul></strong> A section providing user input stock's sentimentals like capitilization,revenue,assets,liabilites etc with high accuracy<br>
+3. <strong><ul>Dynamic Stock news feed:</ul></strong>User input stock news feed where user gets all news related to a stock query which he/she has given as input.<br>
+4. <strong> <ul>Graph Indicators:</ul></strong> A section which provides graph indicator tool based on current user-input stock's graph<br>
+5. <strong><ul>Portfolio Tracker: </ul></strong>  A section to help track purchased or currently holded stocks with its current gain/loss status.<br>
+6. <strong><ul>Responsiveness:</ul></strong> Completely responsive with an aim to make it user friendly for mobile and tablet traders as well. <br>
+7. <strong><ul>Friendly User Interface:</ul></strong>  A engaging and easy UI for traders so as to focus more on trading rather than on other things.<br><br>
 
 <h3><bold>TECHNOLOGIES USED</bold></h3>
 <hr></hr>
