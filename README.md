@@ -14,6 +14,7 @@
 -> Its heart is its dummy trading section where newbiew traders can trade based on the above made strategies without risking real money but still will get a feel of proper trading with exclusive virtual trading experience in this section.<br>
 -> At last, traders will also get a functionality of portfolio for tracking stocks they have purchased in dummy trading section with current profit/loss status. <br><br>
 
+
 <h3><bold>KEY FEATURES</bold></h3>
 <hr></hr>
 1. <strong><u>Dashboard of top 10 stocks: </u></strong> Get a top 10 US stocks with proper info of % change, up/down ,gained/lost in a tabulated form<br>
