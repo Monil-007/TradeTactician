@@ -2,8 +2,9 @@ const express = require('express');
 //const fetch = require('node-fetch');
 const finnhub = require('finnhub');
 
+
 const api_key = finnhub.ApiClient.instance.authentications['api_key'];
-api_key.apiKey = "cfj2fo9r01qjvrn54mggcfj2fo9r01qjvrn54mh0" // Replace this
+api_key.apiKey = "cfj2fo9r01qjvrn54mggcfj2fo9r01qjvrn54mh0"
 const finnhubClient = new finnhub.DefaultApi()
 
 
@@ -63,6 +64,16 @@ const MarketNews = async (req, res) => {
         console.log(data);
         res.send(data);
     });
+}
+
+const pfBuy = async (req, res) => {
+    console.log("inside pfBuy, radhe krishna");
+    // mongo DB add;
+}
+
+const pfExtract = async (req, res) => {
+    console.log("inside pfExtract, radhe radhe... hare krishna");
+    // mongo read function
 }
 
 module.exports = { StockAPI, StockAnalysis, CompanyNews, MarketNews };
