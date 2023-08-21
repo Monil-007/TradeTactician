@@ -1,4 +1,5 @@
 <br>
+
 <h1><strong>WELCOME TO TradeTactician</strong></h1>
  <br>
  - Are you eager to do trading but not confident enough to risk your real money??<br> 
